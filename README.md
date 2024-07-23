@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋, I'm Tuan Minh Nguyen, or you can call me Andrew
+About me:
+I'm a Software Engineer / Full Stack Developer .
 <!--
 **a1865818/a1865818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
