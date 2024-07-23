@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Tuan Minh Nguyen, or you can call me Andrew
 About me:
 
-I'm a Software Engineer / Full Stack Developer ![](https://github.com/a1865818/a1865818/blob/main/Image1.gif).
+![](https://github.com/a1865818/a1865818/blob/main/Image2.gif).
+
+I'm a Software Engineer / Full Stack Developer 
 <!--
 **a1865818/a1865818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
