@@ -1,22 +1,25 @@
 ## Hi there 👋, I'm Tuan Minh Nguyen, or you can call me Andrew
 About me:
 
-![](https://github.com/a1865818/a1865818/blob/main/Image2.gif).
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="300"/>
+</div>
 
-I'm a Software Engineer / Full Stack Developer 
+I'm a Software Engineer / Full Stack Developer <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30">.
+
 <!--
 **a1865818/a1865818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I come from Vietnam and I'm fluent in both Vietnamese and English
+- 🌱 Interested in Software/Website Developing.
+- 🌱 Interested in Data Analyst.
+- 🌱 Interested in Artificial Intelligence and Machine Learning Analyst.
+- ⚡ In my free time, I read news, tech articles, and research in online projects.
+- :football: Aside from that, I'm a fan of football and I'm a big fan of Manchester United. I also like reading comics and riding motorcycle to relax after a long day.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-peter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minh-nguyen1012/)
+---
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=a1865818)](https://git.io/streak-stats)
