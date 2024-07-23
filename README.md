@@ -13,11 +13,12 @@ I'm a Software Engineer / Full Stack Developer <img src="https://media2.giphy.co
 
 
 - 🔭 I come from Vietnam and I'm fluent in both Vietnamese and English
+- 🔭 I'm studying Bachelor of Computer Science (Artificial Intelligence Major) at University of Adelaide
 - 🌱 Interested in Software/Website Developing.
 - 🌱 Interested in Data Analyst.
 - 🌱 Interested in Artificial Intelligence and Machine Learning Analyst.
 - ⚡ In my free time, I read news, tech articles, and research in online projects.
-- :football: Aside from that, I'm a fan of football and I'm a big fan of Manchester United. I also like reading comics and riding motorcycle to relax after a long day.
+- :soccer: Aside from that, I'm a fan of football and I'm a big fan of Manchester United. I also like reading comics and riding motorcycle to relax after a long day.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrew-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minh-nguyen1012/)
 
 ---
